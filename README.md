@@ -148,7 +148,10 @@
 ## 🐍 Contribuições
 
 <p align="center">
-  ![Snake animation](https://github.com/Guilherme-David/Guilherme-David/blob/output/github-contribution-grid-snake-dark.svg)
+  <img
+    src="https://github.com/Guilherme-David/Guilherme-David/blob/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake animation"
+  />
 </p>
 
 ---
