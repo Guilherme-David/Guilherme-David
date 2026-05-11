@@ -82,7 +82,7 @@
   <td align="center">
       <img height="40" width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg"/><br>
-      MYSql
+      Prisma ORM
     </td>
 
   <td align="center">
