@@ -65,7 +65,7 @@
   <td align="center">
       <img height="40" width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/><br>
-      MYSql WorkBench
+      MYSql
     </td>
     
   <td align="center">
