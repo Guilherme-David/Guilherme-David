@@ -16,6 +16,12 @@
   <tr>
     <td align="center">
       <img height="40" width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/><br>
+      CSS3
+    </td>
+    
+  <td align="center">
+      <img height="40" width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><br>
       Python
     </td>
