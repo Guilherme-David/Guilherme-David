@@ -1,8 +1,7 @@
 <h1 align="center">Olá 👋, eu sou Guilherme David</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack • Estudante de ADS • Apaixonado por Tecnologia
-</p>
+  Desenvolvedor Full Stack • Aluno de Informática • 
 
 ---
 
