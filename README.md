@@ -46,6 +46,12 @@
 
   <td align="center">
       <img height="40" width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/><br>
+      TypeScript
+    </td>
+
+  <td align="center">
+      <img height="40" width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/><br>
       Java
     </td>
