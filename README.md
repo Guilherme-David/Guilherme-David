@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Guilherme David</h1>
+<h1 align="center">Olá, eu sou Guilherme David</h1>
 
 <p align="center">
   Desenvolvedor Full Stack • Aluno de Informática • 
@@ -20,7 +20,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="40" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-
+  <p>Python</p>
   <img align="center" alt="FastAPI" height="40" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
 
