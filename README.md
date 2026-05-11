@@ -49,7 +49,7 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg"/><br>
       Flask
     </td>
-    
+  <br>
   <td align="center">
       <img height="40" width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/><br>
