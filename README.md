@@ -9,7 +9,6 @@
 
 - 🎓 Estudante de Informática no IFRN Caicó
 - 🎨 Designer nas horas vagas
-- 💻 Interessado em projetos
 “Viva como se fosse morrer amanhã. Aprenda como se fosse viver para sempre.” — Mahatma Gandhi
 ---
 
