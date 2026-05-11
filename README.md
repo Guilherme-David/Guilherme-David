@@ -3,14 +3,12 @@
 <p align="left">
   Desenvolvedor Full Stack • Aluno de Informática
 
----
 
 ## 🚀 Sobre mim
 
 - 🎓 Estudante de Informática no IFRN Caicó
 - 🎨 Designer nas horas vagas
 - “Viva como se fosse morrer amanhã. Aprenda como se fosse viver para sempre.” — Mahatma Gandhi
----
 
 ## 🛠️ Tecnologias e Ferramentas
 
