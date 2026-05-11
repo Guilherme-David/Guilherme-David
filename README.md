@@ -73,6 +73,12 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/><br>
       MYSql
     </td>
+
+  <td align="center">
+      <img height="40" width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/><br>
+      Docker
+    </td>
     
   <td align="center">
       <img height="40" width="40"
@@ -83,12 +89,6 @@
   <td align="center">
       <img height="40" width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/><br>
-      Linux
-    </td>
-
-  <td align="center">
-      <img height="40" width="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/><br>
       Linux
     </td>
   </tr>
