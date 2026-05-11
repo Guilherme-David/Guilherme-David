@@ -40,7 +40,7 @@
 
   <td align="center">
       <img height="40" width="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/><br>
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg"/><br>
       Flask
     </td>
     
