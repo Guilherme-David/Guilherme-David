@@ -1,7 +1,7 @@
 <h1 align="left">👦🖥️ Guilherme David</h1>
 
 <p align="left">
-  Desenvolvedor Full Stack • Aluno de Informática
+  Desenvolvedor Full Stack / FrontEnd / BackEnd • Desenvolvedor Júnior
 
 
 ## 🚀 Sobre mim
