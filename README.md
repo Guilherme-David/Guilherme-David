@@ -76,6 +76,12 @@
 
   <td align="center">
       <img height="40" width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/><br>
+      Figma
+    </td>
+    
+  <td align="center">
+      <img height="40" width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/><br>
       Docker
     </td>
