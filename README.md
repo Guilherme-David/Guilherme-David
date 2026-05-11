@@ -14,23 +14,6 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
-  <img alt="Python" title="Python" height="40" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-
-  <img alt="FastAPI" title="FastAPI" height="40" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
-
-  <img alt="SQLite" title="SQLite" height="40" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
-
-  <img alt="Git" title="Git" height="40" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
-  <img alt="Linux" title="Linux" height="40" width="40"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-</p>
-
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -38,10 +21,10 @@
 <div align="center">
 
 <img height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  src="https://github-readme-stats.vercel.app/api?username=Guilherme-David&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <img height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-David&layout=compact&langs_count=7&theme=tokyonight"/>
 
 </div>
 
