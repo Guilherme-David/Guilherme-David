@@ -18,20 +18,20 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <p align="left">
-  <img alt="Python" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img alt="Python" title="Python" height="40" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 
-  <img alt="FastAPI" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
+  <img alt="FastAPI" title="FastAPI" height="40" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
 
-  <img alt="SQLite" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
+  <img alt="SQLite" title="SQLite" height="40" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"/>
 
-  <img alt="Git" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img alt="Git" title="Git" height="40" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
-  <img alt="Linux" height="40" width="40"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img alt="Linux" title="Linux" height="40" width="40"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 </p>
 
 ---
