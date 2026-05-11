@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 🎓 Estudante de Informática no IFRN Caicó
 - 💻 Desenvolvendo APIs com FastAPI e SQLModel
 - 🎨 Designer nas horas vagas
 - ⚽ Interessado em projetos esportivos e automações
