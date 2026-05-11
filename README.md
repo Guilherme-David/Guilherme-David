@@ -17,7 +17,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<div style="display: flex; flex-direction: row; gap: 10px; align-items: center;">
+<div">
   <img align="center" alt="Python" height="40" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <p>Python</p>
