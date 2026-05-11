@@ -41,7 +41,7 @@
 ## 🌐 Contato
 
 <div>
-  <a href="https://github.com/SEU_USUARIO" target="_blank">
+  <a href="https://github.com/Guilherme-David" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
   </a>
 
