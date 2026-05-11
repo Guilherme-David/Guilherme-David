@@ -22,6 +22,13 @@
 
   <td align="center">
       <img height="40" width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/><br>
+      JavaScript
+    </td>
+
+
+  <td align="center">
+      <img height="40" width="40"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/><br>
       FastAPI
     </td>
