@@ -1,6 +1,6 @@
-<h1 align="center">Olá, eu sou Guilherme David</h1>
+<h1 align="left">👦🖥️ Guilherme David</h1>
 
-<p align="center">
+<p align="left">
   Desenvolvedor Full Stack • Aluno de Informática • 
 
 ---
