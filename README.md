@@ -112,6 +112,14 @@
     </td>
   </tr>
 
+<td align="center">
+      <img height="40" width="40"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"/><br>
+      PhotoShop
+    </td>
+  </tr>
+  
+
   
 </table>
 
