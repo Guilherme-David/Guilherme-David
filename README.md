@@ -17,44 +17,22 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+<p align="left">
+  <img alt="Python" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
-  <div align="center">
-    <img alt="Python" height="40" width="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <br>
-    <sub><b>Python</b></sub>
-  </div>
+  <img alt="FastAPI" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
 
-  <div align="center">
-    <img alt="FastAPI" height="40" width="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
-    <br>
-    <sub><b>FastAPI</b></sub>
-  </div>
+  <img alt="SQLite" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
 
-  <div align="center">
-    <img alt="SQLite" height="40" width="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">
-    <br>
-    <sub><b>SQLite</b></sub>
-  </div>
+  <img alt="Git" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
-  <div align="center">
-    <img alt="Git" height="40" width="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <br>
-    <sub><b>Git</b></sub>
-  </div>
-
-  <div align="center">
-    <img alt="Linux" height="40" width="40"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-    <br>
-    <sub><b>Linux</b></sub>
-  </div>
-
-</div>
+  <img alt="Linux" height="40" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+</p>
 
 ---
 
